@@ -6,13 +6,6 @@ This project demonstrates how a personal portfolio can be deployed with the same
 
 ---
 
-## 🚀 Live Demo
-
-> 🔗 [Add your live deployment link here]  
-> *(Optional: You can also add a screenshot or demo GIF here)*
-
----
-
 ## 🧰 Tech Stack
 
 | Technology     | Purpose                              |
