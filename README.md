@@ -2,7 +2,7 @@
 
 Welcome to the repository for my **React-based portfolio website**, built with modern frontend technologies and deployed using a scalable, cloud-native infrastructure powered by **Docker** and **Kubernetes**.
 
-This project demonstrates how a personal portfolio can be deployed with the same practices used in real-world, production-grade web applications. The deployment process was inspired by [Kastro Kiran’s Zomato App Deployment Tutorial](https://youtu.be/GyoI6-I68aQ).
+This project demonstrates how a personal portfolio can be deployed with the same practices used in real-world, production-grade web applications.
 
 ---
 
